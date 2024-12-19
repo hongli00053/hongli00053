@@ -7,7 +7,7 @@
   - Python game project 
   
 - 🌱 **Current Interests**
-  - CI/CD
+  - C#
   - Cloud
   - Automating Processes
    
